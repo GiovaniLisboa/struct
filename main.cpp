@@ -26,7 +26,7 @@ int main(int argc, char **argv)
     bool teste = false;
     char resposta = a;
     int item = 0;
-    
+    a
     while (teste == false)
     {
         computador pc+item;
